@@ -1,7 +1,7 @@
 <div align="center">
-  <img src=https://github.com/user-attachments/assets/7e71ba30-a3fd-48ef-941a-264362f7ab9e alt="Sarya Logo" width="120" />
- 
- <h1>Sarya (सार्या)</h1>
+  <!-- <img src=https://github.com/user-attachments/assets/7e71ba30-a3fd-48ef-941a-264362f7ab9e alt="Sarya Logo" width="120" />
+  -->
+ <h1>theSarya (सार्या)</h1>
   <p><strong>India's #1 Mobile App for Children with Special Needs</strong></p>
   <p>Supporting children with Autism, ADHD, Down syndrome, and other developmental needs in learning Activities of Daily Living (ADL)</p>
   
